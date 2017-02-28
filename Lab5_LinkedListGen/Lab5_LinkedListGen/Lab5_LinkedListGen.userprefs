@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EFC1055A-8A9D-4EF5-95B1-7AB2D472E5A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkListGen.cs">
+    <Files>
+      <File FileName="LinkListGen.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="44" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab5__LinkedListGen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,16 @@
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.exe.config
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.exe.mdb
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.pdb
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.exe
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/Lab5_LinkedListGen.exe
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/Lab5_LinkedListGen.exe.mdb
+/Volumes/ALFONSO USB 1/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/Lab5_LinkedListGen.pdb
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.exe.config
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.exe.mdb
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.pdb
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/bin/Debug/Lab5_LinkedListGen.exe
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/Lab5_LinkedListGen.exe
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/Lab5_LinkedListGen.exe.mdb
+/Users/alfonsoleone/Documents/Projects/Lab5_LinkedListGen/Lab5_LinkedListGen/obj/Debug/Lab5_LinkedListGen.pdb

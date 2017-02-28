@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5F293C10-EAE5-4553-A373-751A03240C51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab8_BinaryTree/AVLTree.cs">
+    <Files>
+      <File FileName="Lab8_BinaryTree/Node.cs" Line="21" Column="1" />
+      <File FileName="Lab8_BinaryTree/BinTree.cs" Line="37" Column="32" />
+      <File FileName="Lab8_BinaryTree/BSTree.cs" Line="54" Column="1" />
+      <File FileName="Lab8_BinaryTree/AVLTree.cs" Line="61" Column="4" />
+      <File FileName="Lab8_BinaryTree/Program.cs" Line="98" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab8__BinaryTree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,6 @@
+h:\documents\visual studio 2015\Projects\Number\Number\bin\Debug\Number.exe.config
+h:\documents\visual studio 2015\Projects\Number\Number\bin\Debug\Number.exe
+h:\documents\visual studio 2015\Projects\Number\Number\bin\Debug\Number.pdb
+h:\documents\visual studio 2015\Projects\Number\Number\obj\Debug\Number.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\Number\Number\obj\Debug\Number.exe
+h:\documents\visual studio 2015\Projects\Number\Number\obj\Debug\Number.pdb

@@ -1,0 +1,9 @@
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe.config
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.pdb
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Form1.resources
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Properties.Resources.resources
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csproj.GenerateResource.Cache
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.exe
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.pdb
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csprojResolveAssemblyReference.cache

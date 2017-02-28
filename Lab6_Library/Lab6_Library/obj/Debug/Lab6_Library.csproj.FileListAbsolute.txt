@@ -1,0 +1,19 @@
+c:\users\alfonso23\documents\visual studio 2015\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+F:\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+F:\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+F:\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+F:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojResolveAssemblyReference.cache
+F:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Form1.resources
+F:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+F:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.Cache
+F:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+F:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+E:\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+E:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+E:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+E:\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+E:\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+E:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojResolveAssemblyReference.cache
+E:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Form1.resources
+E:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+E:\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.Cache

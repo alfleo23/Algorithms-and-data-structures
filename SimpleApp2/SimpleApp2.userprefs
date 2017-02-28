@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F3BB6243-AE76-42CC-ABA3-F37471220121}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleApp2/Form1.cs">
+    <Files>
+      <File FileName="SimpleApp2/Program.cs" Line="1" Column="1" />
+      <File FileName="SimpleApp2/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="SimpleApp2/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SimpleApp2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

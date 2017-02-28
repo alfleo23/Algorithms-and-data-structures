@@ -1,0 +1,6 @@
+h:\documents\visual studio 2015\Projects\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe.config
+h:\documents\visual studio 2015\Projects\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe
+h:\documents\visual studio 2015\Projects\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.pdb
+h:\documents\visual studio 2015\Projects\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.exe
+h:\documents\visual studio 2015\Projects\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.pdb
